@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-topic-comment-elaboration
-description: "Anchor familiar context on the opening doorstep before delivering novel technical payloads." Use this when working on fitzpatrick topic comment elaboration.
+description: "Anchor familiar context on the opening doorstep before delivering novel technical payloads. Use this when working on fitzpatrick topic comment elaboration."
 category: "Writing & Communication"
 triggers:
   - "topic comment elaboration"
